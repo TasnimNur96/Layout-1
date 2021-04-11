@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: firebrick;
+    color: black;
+    height: 100px;
+    text-align: center;
+}
+.left_content{
+    background-color: darkgreen;
+    color: red;
+    height: 300px;
+    width: 50%;
+    float: left;
+    text-align: center;
+
+}
+.right_content{
+    background-color: orangered;
+    color: black; 
+    height: 300px;
+    width: 50%;
+    float: right;
+    text-align: center;
+
+}
+.main-content{
+    background-color: blueviolet;
+    color: black;
+    height: 200px;
+    text-align: center; 
+}
+.content{
+    overflow: hidden;
+}
+.footer{
+    background-color: goldenrod;
+    color: black;
+    height: 100px;
+    text-align: center;
+}
